@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+    text-align: center;
+}
+footer {
+    background-color: #222;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.changelog {
+    max-width: 50%;
+}
+.changelog h2 {
+    margin-top: 0;
+}
+footer p {
+    margin: 0;
+    text-align: right;
+    padding: 10px 40px;
+    flex: 1;
+}
+.content {
+    padding: 20px;
+}
