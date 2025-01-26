@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://boug5974.netlify.app/sitemap.xml
+Sitemap: https://anjoy28.github.io/boug5974_ige511_tp1/sitemap.xml
