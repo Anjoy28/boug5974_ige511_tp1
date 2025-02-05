@@ -23,4 +23,28 @@
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://anjoy28.github.io/boug5974_ige511_tp1/</loc>
+<image:image>
+<image:loc>https://anjoy28.github.io/boug5974_ige511_tp1/images/station_ski.jpg</image:loc>
+<image:title>Station de ski sous un ciel bleu rdvptrwjeiptwpes</image:title>
+<image:caption>Station de ski rdvptrwjeiptwpes</image:caption>
+</image:image>
+</url>
+<url>
+<loc>https://anjoy28.github.io/boug5974_ige511_tp1/chapitre1.html</loc>
+<image:image>
+<image:loc>https://anjoy28.github.io/boug5974_ige511_tp1/images/tempete_neige.jpg</image:loc>
+<image:title>Tempête de neige rdvptrwjeiptwpes</image:title>
+<image:caption>Tempête de neige rdvptrwjeiptwpes</image:caption>
+</image:image>
+</url>
+<url>
+<loc>https://anjoy28.github.io/boug5974_ige511_tp1/chapitre2.html</loc>
+<image:image>
+<image:loc>https://anjoy28.github.io/boug5974_ige511_tp1/images/coucher_soleil.jpg</image:loc>
+<image:title>Coucher de soleil rdvptrwjeiptwpes</image:title>
+<image:caption>Coucher de soleil rdvptrwjeiptwpes</image:caption>
+</image:image>
+</url>
 </urlset>

@@ -64,3 +64,15 @@ nav ul li a {
     padding: 20px;
     text-align: justify;
 }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+}
