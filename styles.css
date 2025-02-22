@@ -77,3 +77,6 @@ nav ul li a {
     max-width: 100%;
     height: auto;
 }
+.changelog ul {
+    font-size: 8px;
+}
